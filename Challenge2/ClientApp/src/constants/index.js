@@ -1,0 +1,9 @@
+export const requestEntries = 'REQUEST_ENTRIES';
+export const receiveEntries = 'RECEIVE_ENTRIES';
+export const entryPrepare = "ENTRY_PREPARE";
+export const entryCreate = "ENTRY_CREATE";
+export const entryUpdate = "ENTRY_UPDATE";
+export const entryError = "ENTRY_ERROR";
+export const entryDelete = "ENTRY_DELETE";
+export const entryStartEdit = "ENTRY_IN_EDIT";
+export const entryFinishEdit = "ENTRY_OUT_EDIT";
